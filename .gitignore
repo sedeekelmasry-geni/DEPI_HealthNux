@@ -1,0 +1,14 @@
+# Local python overrides
+*_local.py
+*.local.py
+
+# Local notebooks
+*_local.ipynb
+*.local.ipynb
+
+__pycache__/
+*.pyc
+
+.idea/
+.vscode/
+keys/
