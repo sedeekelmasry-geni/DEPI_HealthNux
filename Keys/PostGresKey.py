@@ -1,0 +1,1 @@
+POSTGRES_URL = "postgresql://neondb_owner:npg_sq6frpH5WKli@ep-ancient-haze-alir47v0.c-3.eu-central-1.aws.neon.tech/neondb?sslmode=require"
